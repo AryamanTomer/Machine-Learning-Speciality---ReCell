@@ -1,0 +1,30 @@
+ReCell - Project 3 Machine Learning Speciality
+
+Context - The market for cellphones and tables have grown tremendously online and offline in the past decade.
+The International Data Corporation forecast has predicted that the used phone market would be worth over $50 billion by 2023
+and has a compound growth rate of nearly 14% over the time period of 2018 to 2023. This growth is attributed to the reusage of old devices due to 
+the cost of the newer devices.
+
+Objective:
+
+The rising potential of this market fuels the need for a solution to develop a dynamic pricing strategy for used and refurbished devices.
+ReCell is a startup aiming to tap the potential in this market and hired you as a data scientist.
+Analyze the data provided and build a linear regression model to predict the price of a used phone and identify the factors that influence it.
+
+Data Variables in the Project:
+brand_name: Name of the manufacturing brand
+os: OS on which the device runs
+screen_size: Sice of the screen in cm
+4g: Is 4G available or not
+5g: Is 5G available or not
+main_camera_mp: Resolution of the rear camera in megapixels
+selfie_camera_mp: Resolution of the front camera in megapixels
+int_memory: Amount of internal memory in GB
+ram: Amount of RAM in GB
+battery: Energy capacity of the device battery in mAh
+weight: Weight of the device in grams
+release_year: Year when the device model was released
+days_used: Number of days the used/refurbished device has been used
+normalized_new_price: Normalized price of the new device of the same model in euros
+normalized_used_price: Normalized price of the used/refurbished device in euroes
+
